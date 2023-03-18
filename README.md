@@ -1,1 +1,1 @@
-# Python_Project
+# Python Dili ile Yazılmış Projeler
