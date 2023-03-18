@@ -1,4 +1,4 @@
-# Yunus Emre Ay / 21100011016 / TR.yunus.emre.ay@gmail.com / 05516524768 / <3
+# Yunus Emre Ay / TR.yunus.emre.ay@gmail.com
 
 sayilar = "01"
 while True:
