@@ -1,4 +1,4 @@
-# Yunus Emre Ay / 21100011016 / Tel: 05516524768 / E-posta: TR.yunus.emre.ay@gmail.com / <3
+# Yunus Emre Ay / E-posta: TR.yunus.emre.ay@gmail.com
 
 print("*****YILDIZLARLA ISIM YAZMA PROGRAMINA HOSGELDINIZ*****\n\n")
 print("Yildizlarla isim yazma islemini gerceklestirmeden once 'Boyut'u belirlemeniz gerekmektedir.\n")
