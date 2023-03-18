@@ -15,3 +15,8 @@
 - Sistemden İstenildiği Zaman İlgili Tuşa Basılıp Çıkış Yapılabilecektir.
 - Filtreleme İşlemi Yapılırken;
 	- Filtreleme İşlemi Yapılırken Ev Filtreleme Ve Araba Filtreleme Özelliklerinde Toplamda 12 Farklı Filtreleme Seçeneği Bulunmaktadır. İstenilen Seçenekler Kullanıcıdan Tek Seferde Alınarak İstenilen Kriterlere Göre %100 Olan Doğruluk Oranıyla Kullanıcıya Gösterilmektedir.
+
+------------
+
+
+**Önemli Not: Veriler "Main.txt" dosyasına yazılıp, gerektiğinde oradan çekilmektedir. Lütfen 'Main.py' ile 'Main.txt' dosyalarını aynı dizinde bulundurarak kodu çalıştırınız.**
