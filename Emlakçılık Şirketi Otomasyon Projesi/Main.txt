@@ -1,0 +1,21 @@
+id:101 / Ev / Satilik / Fiyat:250.000    TL / OdaSayisi:2+1 / m2:150 / Kat:8  / YapilisYili:2013      .
+id:102 / Ev / Kiralik / Fiyat:360.000    TL / OdaSayisi:3+1 / m2:180 / Kat:12 / YapilisYili:2010      .
+id:103 / Ev / Satilik / Fiyat:400.000    TL / OdaSayisi:1+1 / m2:400 / Kat:15 / YapilisYili:2015      .
+id:104 / Ev / Kiralik / Fiyat:480.000    TL / OdaSayisi:5+1 / m2:420 / Kat:13 / YapilisYili:2008      .
+id:105 / Ev / Kiralik / Fiyat:300.000    TL / OdaSayisi:4+1 / m2:310 / Kat:5  / YapilisYili:2011      .
+id:106 / Ev / Satilik / Fiyat:2.500.000  TL / OdaSayisi:7+1 / m2:700 / Kat:35 / YapilisYili:2020      .
+id:107 / Ev / Satilik / Fiyat:8.000.000  TL / OdaSayisi:9+4 / m2:750 / Kat:25 / YapilisYili:2022      .
+id:108 / Ev / Satilik / Fiyat:1.250.000  TL / OdaSayisi:5+2 / m2:360 / Kat:18 / YapilisYili:2018      .
+id:109 / Ev / Kiralik / Fiyat:720.000    TL / OdaSayisi:3+2 / m2:460 / Kat:4  / YapilisYili:1995      .
+id:110 / Ev / Kiralik / Fiyat:930.000    TL / OdaSayisi:5+3 / m2:525 / Kat:7  / YapilisYili:1999      .
+id:111 / Araba / Satilik / Fiyat:280.000    TL / Marka:Mercedes   / Model:2016 / Degisen:Var / Boya:Var
+id:112 / Araba / Satilik / Fiyat:560.000    TL / Marka:Volkswagen / Model:2021 / Degisen:Yok / Boya:Yok
+id:113 / Araba / Kiralik / Fiyat:340.000    TL / Marka:Toyota     / Model:2008 / Degisen:Var / Boya:Yok
+id:114 / Araba / Kiralik / Fiyat:1.230.000  TL / Marka:Audi       / Model:2012 / Degisen:Yok / Boya:Var
+id:115 / Araba / Satilik / Fiyat:2.480.000  TL / Marka:Volvo      / Model:2015 / Degisen:Yok / Boya:Yok
+id:116 / Araba / Kiralik / Fiyat:800.000    TL / Marka:Fiat       / Model:2020 / Degisen:Var / Boya:Var
+id:117 / Araba / Satilik / Fiyat:4.800.000  TL / Marka:Porsche    / Model:2009 / Degisen:Var / Boya:Var
+id:118 / Araba / Satilik / Fiyat:11.000.000 TL / Marka:Tofas      / Model:2023 / Degisen:Yok / Boya:Yok
+id:119 / Araba / Kiralik / Fiyat:1.830.000  TL / Marka:Renault    / Model:2003 / Degisen:Yok / Boya:Var
+id:120 / Araba / Kiralik / Fiyat:5.000.000  TL / Marka:BMW        / Model:2019 / Degisen:Var / Boya:Yok
+id:121 / Araba / Satilik / Fiyat:8.000.000  TL / Marka:Mercedes   / Model:2018 / Degisen:Var / Boya:Var
