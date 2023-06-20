@@ -1,4 +1,4 @@
-# Yunus Emre Ay / E-posta:TR.yunus.emre.ay.gmail.com
+# Yunus Emre Ay / E-posta:TR.yunus.emre.ay@gmail.com
 # Yazmıs Oldugum Koda Benim Icıme Cok Sindi Umarım Sizde Begenirsiniz.
 
 
